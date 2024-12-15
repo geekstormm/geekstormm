@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <!--
-**geekstormm/geekstormm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Recent Activities
+
+<div align="center">
+    <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
+        <img src="https://github.com/geekstormm/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+        <img src="https://github.com/geekstormm/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+        <img src="https://github.com/geekstormm/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+        <img src="https://github.com/geekstormm/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+    </a>
+</div>
